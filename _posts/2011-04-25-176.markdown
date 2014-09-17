@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Thomas Dutrion
+  login: thomas
+  email: thomas@engineor.com
+  url: http://www.engineor.com
+author_login: thomas
+author_email: thomas@engineor.com
+author_url: http://www.engineor.com
+wordpress_id: 176
+wordpress_url: http://blog.generation-pc.net/?p=176
+date: '2011-04-25 11:31:38 +0100'
+date_gmt: '2011-04-25 09:31:38 +0100'
+categories: []
+tags: []
+comments: []
+---
+
