@@ -1,7 +1,7 @@
 title:            "Génération PC"
 description:      "Blogging is fun"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: generation-pc
 share:            true
 dropcap:	  true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -15,7 +15,7 @@ owner:
   avatar:         http://www.gravatar.com/avatar/75a1aaabeaa3f1f017d863870c6c0ded?s=200
   email:          thomas@generation-pc.net
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Software architect, PHP developer and founder of [Engineor](https://www.engineor.com/).
+  description:    Software architect, PHP developer and founder of Engineor, an IT development and consulting company.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        tdutrion
   facebook:       thomas.dutrion
@@ -28,15 +28,16 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Accueil
     url: /
     external: false
     icon: home
-  - title: Categories
+  - title: Catégories
     url: /categories
-  - title: About
+  - title: A propos
     url: /about
   - title: Consulting et développement
+    external: true
     url: https://www.engineor.com
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -66,8 +67,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://www.generation-pc.net/'
+  relativeLinks: 'http://www.generation-pc.net/links.jsonp'
   media: 'images'
   metadata:
     _posts:
