@@ -3,11 +3,13 @@ layout: post
 title: "ZF2, premières impressions !"
 date: '2012-10-19 00:41:18 +0100'
 date_gmt: '2012-10-18 22:41:18 +0100'
-categories: [article]
+categories: articles
 tags: [Développement, Web, Zend Framework, PHP, Hébergement, Zend, Zend Framework 2, Bootstrap, Phpcloud]
+comments: true
+share: true
 ---
 
-[![20121018-113940 PM.jpg](http://blog.generation-pc.net/wp-content/uploads/2012/10/20121018-113940-PM.jpg)](http://blog.generation-pc.net/wp-content/uploads/2012/10/20121018-113940-PM.jpg)
+[![Zend Framework 2 Logo](/images/posts/2012-10-19-zf2-premieres-impressions/01.png)](/images/posts/2012-10-19-zf2-premieres-impressions/01.png)
 
 Attendu depuis de nombreux mois, la nouvelle version de Zend Framework est sortie le 7 septembre 2012. Je n'ai pas eu le temps de m'y intéresser jusque là, mais je tiens à vous donner mon avis après quelques jours de tests...
 

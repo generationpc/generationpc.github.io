@@ -3,17 +3,20 @@ layout: post
 title: "PhpCloud : la plateforme PHP de Zend"
 date: '2012-10-19 16:36:23 +0100'
 date_gmt: '2012-10-19 14:36:23 +0100'
-categories: [article]
+categories: articles
 tags: [Développement, Web, Zend Framework, Linux, PHP, Hébergement]
+comments: true
+share: true
 ---
 
-[![Logo Zend Technologies](http://blog.generation-pc.net/wp-content/uploads/2012/10/Zend_logo_color_L1.png)](http://blog.generation-pc.net/wp-content/uploads/2012/10/Zend_logo_color_L1.png)
+[![Logo Zend Technologies](/images/posts/2012-10-19-phpcloud-la-plateforme-php-de-zend/01.png)](/images/posts/2012-10-19-phpcloud-la-plateforme-php-de-zend/01.png)
 
 Vous désirez développer et déployer rapidement vos applications PHP ? Pourquoi ne pas utiliser la plateforme prévue à cette effet par l'entreprise qui est à l'origine de l'industrialisation de PHP.
 
 Chose promise, chose due, voici donc un article sur PhpCloud. Pour ceux qui comprennent suffisamment bien l'anglais, je vous propose la vidéo de présentation officielle.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/LOZPibbli9Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/LOZPibbli9Q" frameborder="0"></iframe>
+
 
 Du coup, qu'est-ce que c'est PhpCloud ? En fait c'est simplement une sorte d'hébergement cloud sur du Zend Server, gratuit pour 2  machines virtuelles par compte pour le moment.
 
