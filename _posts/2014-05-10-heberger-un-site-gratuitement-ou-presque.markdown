@@ -7,6 +7,7 @@ category: tutoriels
 tags: [Développement, Internet, Mutualisé, Hébèrgement gratuit, Site web, CDN]
 comments: true
 share: true
+redirect_from: "/2014/05/heberger-un-site-gratuitement-ou-presque/"
 ---
 
 > Thomas, saurais-tu comment héberger gratuitement mon portfolio ?

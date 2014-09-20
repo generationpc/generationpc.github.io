@@ -9,6 +9,9 @@ dropcap:	  true
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	  ""
 
+gems:
+  - jekyll-redirect-from
+
 # Owner/author information
 owner:
   name:           Thomas Dutrion
