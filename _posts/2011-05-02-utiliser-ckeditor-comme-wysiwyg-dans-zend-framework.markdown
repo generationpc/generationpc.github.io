@@ -3,7 +3,7 @@ layout: post
 title: Utiliser CKeditor comme WYSIWYG dans Zend Framework
 date: '2011-05-02 16:03:57 +0100'
 date_gmt: '2011-05-02 14:03:57 +0100'
-categories: articles
+categories: tutoriels
 tags: [Développement, ZendX Jquery, Zend, Zend Framework, Web, Configuration, ckeditor, wysiwyg]
 comments: true
 share: true

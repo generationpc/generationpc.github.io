@@ -3,7 +3,7 @@ layout: post
 title: "ZF2, premières impressions !"
 date: '2012-10-19 00:41:18 +0100'
 date_gmt: '2012-10-18 22:41:18 +0100'
-categories: articles
+categories: Articles
 tags: [Développement, Web, Zend Framework, PHP, Hébergement, Zend, Zend Framework 2, Bootstrap, Phpcloud]
 comments: true
 share: true

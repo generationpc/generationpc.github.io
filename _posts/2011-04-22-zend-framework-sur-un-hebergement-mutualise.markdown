@@ -3,7 +3,7 @@ layout: post
 title: Zend Framework sur un hébergement mutualisé
 date: '2011-04-22 12:33:20 +0100'
 date_gmt: '2011-04-22 10:33:20 +0100'
-categories: articles
+categories: tutoriels
 tags: [Zend, Zend Framework, Développement, Configuration, Hébergement, Mutualisé]
 comments: true
 ---

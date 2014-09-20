@@ -3,7 +3,7 @@ layout: post
 title: Zend Framework chez OVH
 date: '2011-09-03 09:57:17 +0100'
 date_gmt: '2011-09-03 07:57:17 +0100'
-categories: articles
+categories: tutoriels
 tags: [Développement, Web, Zend Framework, PHP, Hébergement, Mutualisé, OVH, production]
 comments: true
 share: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "A propos"
+permalink: /a-propos/index.html
 ---
 
 Le site Génération PC est un projet qui me tiens personnellement à coeur, car il a pour vocation de rassembler un bon nombre de connaissances en informatique pour les mettre à porté de tous.

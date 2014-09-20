@@ -3,7 +3,7 @@ layout: post
 title: ZendX jQuery - Mise en place dans Zend Framework
 date: '2011-04-02 13:54:09 +0100'
 date_gmt: '2011-04-02 11:54:09 +0100'
-categories: articles
+categories: tutoriels
 tags: [Développement, Zend Framework, ZendX Jquery, Zend Framework]
 comments: true
 ---

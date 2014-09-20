@@ -3,7 +3,7 @@ layout: post
 title: Zend_Form - Feuille de style de base
 date: '2011-04-02 14:06:46 +0100'
 date_gmt: '2011-04-02 12:06:46 +0100'
-categories: articles
+categories: tutoriels
 tags: [Développement, Web, Zend Framework]
 comments: true
 share: true

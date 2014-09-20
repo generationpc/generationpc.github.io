@@ -3,7 +3,7 @@ layout: post
 title: 'Outlook : laisser les mails sur le serveur'
 date: '2011-08-31 22:28:17 +0100'
 date_gmt: '2011-08-31 20:28:17 +0100'
-categories: articles
+categories: tutoriels
 tags: [Logiciels, Mails, Outlook, Mail, POP]
 comments: true
 share: true

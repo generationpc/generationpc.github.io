@@ -3,7 +3,7 @@ layout: post
 title: Héberger un site gratuitement (ou presque)
 description: "Comment héberger un site web gratuitement lorsque l'on démarre."
 modified: 2013-05-31
-category: articles
+category: tutoriels
 tags: [Développement, Internet, Mutualisé, Hébèrgement gratuit, Site web, CDN]
 comments: true
 share: true

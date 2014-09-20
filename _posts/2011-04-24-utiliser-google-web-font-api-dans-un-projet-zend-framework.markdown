@@ -3,7 +3,7 @@ layout: post
 title: Google Web Font dans un projet Zend Framework
 date: '2011-04-24 18:27:20 +0100'
 date_gmt: '2011-04-24 16:27:20 +0100'
-categories: articles
+categories: tutoriels
 tags: [Développement, Zend, Zend Framework, Google Web Font, Aide de vue, HeadLink]
 comments: true
 share: true

@@ -5,7 +5,7 @@ disqus_shortname: generation-pc
 share:            true
 dropcap:	  true
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	  ""
 
@@ -15,15 +15,15 @@ owner:
   avatar:         http://www.gravatar.com/avatar/75a1aaabeaa3f1f017d863870c6c0ded?s=200
   email:          thomas@generation-pc.net
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Software architect, PHP developer and founder of Engineor, an IT development and consulting company.
+  description:    Architecte logiciel, développeur PHP, j'ai crée Engineor, une entreprise de prestations de services informatique a destination des entreprises et particuliers.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        tdutrion
   facebook:       thomas.dutrion
-  github:         prestalyon      
+  github:         prestalyon
 
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -35,7 +35,7 @@ links:
   - title: Catégories
     url: /categories
   - title: A propos
-    url: /about
+    url: /a-propos
   - title: Consulting et développement
     external: true
     url: https://www.engineor.com
@@ -56,10 +56,10 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  use_coderay: true
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
