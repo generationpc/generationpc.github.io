@@ -7,6 +7,7 @@ categories: Articles
 tags: [Développement, Web, Zend Framework, PHP, Hébergement, Zend, Zend Framework 2, Bootstrap, Phpcloud]
 comments: true
 share: true
+redirect_from: "/2012/10/zf2-premieres-impressions/"
 ---
 
 [![Zend Framework 2 Logo](/images/posts/2012-10-19-zf2-premieres-impressions/01.png)](/images/posts/2012-10-19-zf2-premieres-impressions/01.png)

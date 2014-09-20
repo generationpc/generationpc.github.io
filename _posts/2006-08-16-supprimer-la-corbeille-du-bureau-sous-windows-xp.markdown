@@ -7,6 +7,7 @@ categories: astuces
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Paramètres, Corbeille]
 comments: true
 share: true
+redirect_from: "/2006/08/supprimer-la-corbeille-du-bureau-sous-windows-xp/"
 ---
 La corbeille de windows n'est pas un élément comme un autre, elle permet de récuperer des éléments effacés par erreur, elle ne peut donc pas etre renommée ou supprimée d'un simple clic.
 

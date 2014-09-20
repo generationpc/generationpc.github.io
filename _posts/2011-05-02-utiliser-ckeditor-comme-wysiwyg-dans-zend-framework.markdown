@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Développement, ZendX Jquery, Zend, Zend Framework, Web, Configuration, ckeditor, wysiwyg]
 comments: true
 share: true
+redirect_from: "/2011/05/utiliser-ckeditor-comme-wysiwyg-dans-zend-framework/"
 ---
 
 Lors du développement d'une application web comportant une zone d'administration, une problématique est récurrente : comment vais-je intégrer un éditeur graphique pour que le client puisse personnaliser ses textes ?

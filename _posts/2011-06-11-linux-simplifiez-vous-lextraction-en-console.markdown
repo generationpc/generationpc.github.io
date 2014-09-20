@@ -7,6 +7,7 @@ categories: astuces
 tags: [Configuration, Console, Terminal, Extraction, Archive, Compression, tar, tar.gz, zip, rar, Linux]
 comments: true
 share: true
+redirect_from: "/2011/06/linux-simplifiez-vous-lextraction-en-console/"
 ---
 Ce soir, je télécharge la dernière version de Zend Framework pour un projet que je dois mettre à jour. Sur le site de Zend, le fichier est proposé en tar.gz, fichier que je télécharge.
 

@@ -7,6 +7,7 @@ categories: articles
 tags: [Développement, Web, Zend Framework, PHP, ZF2, ZF2 Beta 1, Framework]
 comments: true
 share: true
+redirect_from: "/2011/10/zf-2-0-debarque-dans-nos-developpements/"
 ---
 Quelques mois après la sortie du framework PHP Symfony dans sa version 2, et après avoir ouvert sa communication pour que les membres de la communauté ne se lassent pas d'attendre, Zend a enfin annoncé une première version beta lors de sa conférence annuelle.
 

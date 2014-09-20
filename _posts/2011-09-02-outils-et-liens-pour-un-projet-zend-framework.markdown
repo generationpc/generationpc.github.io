@@ -8,6 +8,7 @@ categories: articles
 tags: [Développement, Web, Zend Framework, PHP, Logiciel]
 comments: true
 share: true
+redirect_from: "/2011/09/outils-et-liens-pour-un-projet-zend-framework/"
 ---
 J'entends une question dans le public...
 

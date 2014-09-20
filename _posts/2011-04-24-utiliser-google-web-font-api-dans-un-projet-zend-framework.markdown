@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Développement, Zend, Zend Framework, Google Web Font, Aide de vue, HeadLink]
 comments: true
 share: true
+redirect_from: "/2011/04/utiliser-google-web-font-api-dans-un-projet-zend-framework/"
 ---
 Utiliser [Google Web Font](http://www.google.com/webfonts) est un outil proposé par Google permettant d'utiliser dans un site web une police non standard pour embellir son site, en choisissant dans une liste donnée.
 

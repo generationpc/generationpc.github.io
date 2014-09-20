@@ -7,6 +7,7 @@ categories: Cinéma
 tags: [Critique, Cinéma, Fête du cinéma, comédie, l'élève Ducobu, Elie Semoun, Joséphine de Meaux, détente]
 comments: true
 share: true
+redirect_from: "/2011/06/une-comedie-familiale-leleve-ducobu/"
 ---
 Retrouvez la [fiche du film l&#39;&eacute;l&egrave;ve Ducobu sur Allocin&eacute;](http://www.allocine.fr/film/fichefilm_gen_cfilm=179173.html).
 

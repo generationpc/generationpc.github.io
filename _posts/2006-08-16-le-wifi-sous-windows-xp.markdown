@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Réseau, Paramètres, Wifi]
 comments: true
 share: true
+redirect_from: "/2006/08/le-wifi-sous-windows-xp/"
 ---
 
  * ouvrir le `menu démarrer`

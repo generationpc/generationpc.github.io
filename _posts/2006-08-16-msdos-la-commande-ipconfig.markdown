@@ -6,6 +6,7 @@ date_gmt: '2006-08-16 21:11:21 +0100'
 categories: explications
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Réseau, Paramètres, Configuration, ip, Wifi]
 comments: true
+redirect_from: "/2006/08/msdos-la-commande-ipconfig/"
 ---
 Dans cet article, je vais essayer de vous expliquer la commande msdos `ipconfig`.
 

@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Navigateurs Web, Mozilla Firefox, Iceweasel, mot de passe, enregistrer, Internet]
 comments: true
 share: true
+redirect_from: "/2010/10/mozilla-firefox-supprimer-les-mots-de-passe-enregistres/"
 ---
 Vous êtes concerné par ce tutoriel si :
 

@@ -7,6 +7,7 @@ categories: astuces
 tags: [Logiciels de communication, Windows Live Messenger, Supprimer publicité]
 comments: true
 share: true
+redirect_from: "/2006/08/alleger-msn-messenger/"
 ---
 **Cet article rédigé à l'origine sur mon blog hébergé chez Blogger le 16 août 2006 n'est malheureusement plus d'actualité.**
 

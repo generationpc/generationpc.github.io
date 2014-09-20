@@ -7,6 +7,7 @@ categories: astuces
 tags: [Logiciels de communication, Systèmes d'exploitation, Microsoft, Windows XP, Logiciel, Windows Live Messenger]
 comments: true
 share: true
+redirect_from: "/2006/08/supprimer-windows-messenger/"
 ---
 Windows Messenger est le programme de messagerie instantannée installée de base dans les differentes versions de Windows XP.
 

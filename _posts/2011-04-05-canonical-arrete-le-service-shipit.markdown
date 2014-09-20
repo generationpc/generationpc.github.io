@@ -7,6 +7,7 @@ categories: articles
 tags: [Systèmes d'exploitation, Linux, Ubuntu, Canonical, Shipit, '11.04']
 comments: true
 share: true
+redirect_from: "/2011/04/canonical-arrete-le-service-shipit/"
 ---
 Canonical, la société qui est derrière la bien connue distribution GNU/Linux Ubuntu, a annoncé aujourd'hui le retrait de son service "Ship It". Ce changement interviendra dès la prochaine version du système.
 

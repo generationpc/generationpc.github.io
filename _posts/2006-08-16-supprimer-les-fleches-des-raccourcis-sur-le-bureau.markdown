@@ -7,6 +7,7 @@ categories: astuces
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Style, Paramètres, Configuration]
 comments: true
 share: true
+redirect_from: "/2006/08/supprimer-les-fleches-des-raccourcis-sur-le-bureau/"
 ---
 Quand vous ajoutez un raccourci sur votre bureau une petite flèche se place sous ce raccourci. Si vous n'aimez pas ces petites flèches qui gâchent vos icones, une petite intervention très simple dans la base de registre vous permet de les supprimer.
 

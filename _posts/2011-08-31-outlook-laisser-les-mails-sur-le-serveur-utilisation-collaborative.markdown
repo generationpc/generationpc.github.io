@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Logiciels, Mails, Outlook, Mail, POP]
 comments: true
 share: true
+redirect_from: "/2011/08/outlook-laisser-les-mails-sur-le-serveur-utilisation-collaborative/"
 ---
 
 Problème, dans le cadre d'une utilisation collaborative d'une même adresse email, dont la solution peut paraître simple à nombre d'entre nous informaticiens, mais non moins obscur pour les néophytes :

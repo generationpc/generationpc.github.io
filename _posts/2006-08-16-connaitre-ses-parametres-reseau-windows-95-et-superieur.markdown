@@ -7,6 +7,7 @@ categories: astuces
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Windows 95, Windows Server, Réseau, Paramètres, Configuration, ip]
 comments: true
 share: true
+redirect_from: "/2006/08/connaitre-ses-parametres-reseau-windows-95-et-superieur/"
 ---
 Vous aurez besoin de connaitre un jour ou l'autre ces renseignements que vous pouvez aussi trouver dans vos connexions réseau.
 

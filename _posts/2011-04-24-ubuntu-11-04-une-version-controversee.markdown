@@ -6,6 +6,7 @@ date_gmt: '2011-04-24 09:57:06 +0100'
 categories: articles
 tags: [Systèmes d'exploitation, Linux, Ubuntu, Canonical, '11.04', The Natty Narwhal, Critique]
 comments: true
+redirect_from: "/2011/04/ubuntu-11-04-une-version-controversee/"
 ---
 
 Je ne présente plus le désormais célèbre système d'exploitation libre GNU/Linux Ubuntu, laissant à mes lecteurs pas encore au fait se renseigner en lisant notamment [la page wikipedia à propos d'Ubuntu](http://fr.wikipedia.org/wiki/Ubuntu).

@@ -5,7 +5,9 @@ date: '2012-10-19 18:46:47 +0100'
 date_gmt: '2012-10-19 16:46:47 +0100'
 categories: articles
 tags: [Systèmes d'exploitation, Logiciels, Mac OS, Matériel, Système, Critique, Apple, Ipad, Iphone, Mac, Macbook]
-comments: []
+comments: true
+share: true
+redirect_from: "/2012/10/mon-passage-chez-apple/"
 ---
 Depuis le mois d'avril 2012, j'ai commencé à tester des produits Apple, en commençant par le Macbook Pro 13" (édition fin 2011), suivi du Nouvel Ipad (aussi appelé Ipad 3) et pour finir un Iphone 3GS d'occasion. Cet article contient un compte rendu de ces experiences.
 

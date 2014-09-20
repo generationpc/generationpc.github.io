@@ -7,6 +7,7 @@ categories: articles
 tags: [Systèmes d'exploitation, Linux, Ubuntu, '10.10', Maverick Meerkat, News]
 comments: true
 share: true
+redirect_from: "/2010/10/ubuntu-10-10-de-mieux-en-mieux/"
 ---
 ![Logo Ubuntu](/images/posts/2010-10-09-ubuntu-10-10-de-mieux-en-mieux/01.png)
 

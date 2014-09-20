@@ -7,6 +7,7 @@ categories: articles
 tags: [Développement, Web, PHP, anniversaire, AFUP, apéro, Lille]
 comments: true
 share: true
+redirect_from: "/2011/06/php-5-3-fete-ses-deux-ans-serez-vous-de-la-fete/"
 ---
 ![Logo AFUP](/images/posts/2011-06-25-php-5-3-fete-ses-deux-ans-serez-vous-de-la-fete/01.png)
 

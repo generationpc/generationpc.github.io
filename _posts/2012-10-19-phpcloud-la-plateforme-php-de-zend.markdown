@@ -7,6 +7,7 @@ categories: articles
 tags: [Développement, Web, Zend Framework, Linux, PHP, Hébergement]
 comments: true
 share: true
+redirect_from: "/2012/10/phpcloud-la-plateforme-php-de-zend/"
 ---
 
 [![Logo Zend Technologies](/images/posts/2012-10-19-phpcloud-la-plateforme-php-de-zend/01.png)](/images/posts/2012-10-19-phpcloud-la-plateforme-php-de-zend/01.png)

@@ -7,6 +7,7 @@ categories: Cinéma
 tags: [Critique, Cinéma, Film, Baroux, Jean Paul Rouve, Isabelle Nanty, Fête du cinéma, Comédie, les Tuche]
 comments: true
 share: true
+redirect_from: "/2011/06/cinema-les-tuches-lavant-premiere/"
 ---
 Ce soir, j'ai eu la chance d'assister à l'avant première du film "Les Tuche", d'Olivier Baroux, qui sortira en France le 1 juillet, avec en bonus une rapide visite des deux acteurs principaux et du réalisateur.
 

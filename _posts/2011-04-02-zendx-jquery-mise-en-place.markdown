@@ -6,6 +6,8 @@ date_gmt: '2011-04-02 11:54:09 +0100'
 categories: tutoriels
 tags: [Développement, Zend Framework, ZendX Jquery, Zend Framework]
 comments: true
+share: true
+redirect_from: "/2011/04/zendx-jquery-mise-en-place/"
 ---
 ![Logo Zend Framework](/images/posts/2011-04-02-zendx-jquery-mise-en-place/01.png)
 

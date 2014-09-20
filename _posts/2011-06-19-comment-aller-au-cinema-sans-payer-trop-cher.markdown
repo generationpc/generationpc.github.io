@@ -7,6 +7,7 @@ categories: Cinéma
 tags: [Cinéma, Tarifs, Kinépolis, UGC, Pathé, Gaumont, Carte illimité, Films, Abonnement]
 comments: true
 share: true
+redirect_from: "/2011/06/comment-aller-au-cinema-sans-payer-trop-cher/"
 ---
 
 Titulaire d'une carte cinéma illimité entre 2007 et 2010, puis de nouveau depuis moins d'un mois, je m'étonne toujours du peu de gens informés du caractère accessible de ces offres. C'est pourquoi j'ai décidé d'écrire dès ce soir un article à ce propos.

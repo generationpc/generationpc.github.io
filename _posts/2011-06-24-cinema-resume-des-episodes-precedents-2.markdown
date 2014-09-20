@@ -7,6 +7,7 @@ categories: Cinéma
 tags: [Critique, Cinéma, les Tuche, Rien à Déclarer, Limitless, London Boulevard, Omar m'a tuer, Low Cost, Very Bad Trip 2, 'X-Men : le commencement', Pirate des Caraïbes]
 comments: true
 share: true
+redirect_from: "/2011/06/cinema-resume-des-episodes-precedents-2/"
 ---
 Chose promise, chose due ! J'ouvre une catégorie cinéma, c'est bien, mais maintenant il faut que je l'alimente...
 

@@ -6,6 +6,7 @@ date_gmt: '2011-04-22 10:33:20 +0100'
 categories: tutoriels
 tags: [Zend, Zend Framework, Développement, Configuration, Hébergement, Mutualisé]
 comments: true
+redirect_from: "/2011/04/zend-framework-sur-un-hebergement-mutualise/"
 ---
 
 Cet article fait suite à une question posée sur le forum officiel de la communauté francophone de Zend Framework.

@@ -7,6 +7,7 @@ categories: astuces
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Mot de passe, Supprimer demande de mot de passe]
 comments: true
 share: true
+redirect_from: "/2006/08/supprimer-la-demande-du-mot-de-passe-sous-windows-xp/"
 ---
 Dans le menu démarrer, cliquez sur `exécuter`, puis tapez l'instruction suivante : `control userpasswords2`.
 

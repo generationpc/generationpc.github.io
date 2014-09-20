@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Systèmes d'exploitation, Microsoft, Windows XP, Thèmes, Style, Patch]
 comments: true
 share: true
+redirect_from: "/2006/08/installer-un-theme-de-bureau-sous-windows-xp/"
 ---
 Pour installer un nouveau thème, il suffit de patcher un [DLL](http://www.pcentraide.com/index.php?showtopic=1328) de Windows avec le patch join à l'article, puis de choisir le thème téléchargé.
 

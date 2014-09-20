@@ -7,6 +7,7 @@ categories: tutoriels
 tags: [Développement, Web, Zend Framework]
 comments: true
 share: true
+redirect_from: "/2011/04/zend_form-feuille-de-style-de-base/"
 ---
 Pourquoi vous proposer aujourd'hui une feuille de style de base pour le résultat HTML produit par le composant `Zend_Form` ?
 
