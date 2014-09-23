@@ -91,7 +91,7 @@ Description: Awesome dude, awesome life
     <div class="small-12 columns">
         <h1 class="notepad-comments-header">Comments</h1>
         <div id="disqus_thread"></div>
-        {% include disqus_comments.html %}
+        {% include disqus_comments.html disqus_identifier=page.disqus_identifier %}
     </div>
 </section>
 {% endif %}
