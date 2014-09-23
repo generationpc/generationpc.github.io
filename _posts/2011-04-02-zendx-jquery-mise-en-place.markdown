@@ -8,6 +8,7 @@ tags: [Développement, Zend Framework, ZendX Jquery, Zend Framework]
 comments: true
 share: true
 redirect_from: "/2011/04/zendx-jquery-mise-en-place/"
+disqus_identifier: "http://www.generation-pc.net/2011/04/zendx-jquery-mise-en-place/"
 ---
 ![Logo Zend Framework](/images/posts/2011-04-02-zendx-jquery-mise-en-place/01.png)
 
