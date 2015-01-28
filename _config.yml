@@ -7,7 +7,7 @@ dropcap:	  true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  "http://generation-pc.net"
+url:        	  "https://www.generation-pc.net"
 
 gems:
   - jekyll-redirect-from
@@ -22,7 +22,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        tdutrion
   facebook:       thomas.dutrion
-  github:         prestalyon
+  github:         tdutrion
 
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
@@ -70,8 +70,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://www.generation-pc.net/'
-  relativeLinks: 'http://www.generation-pc.net/links.jsonp'
+  siteurl: 'https://www.generation-pc.net/'
+  relativeLinks: 'https://www.generation-pc.net/links.jsonp'
   media: 'images'
   metadata:
     _posts:
