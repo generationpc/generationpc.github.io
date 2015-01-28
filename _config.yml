@@ -15,7 +15,7 @@ gems:
 # Owner/author information
 owner:
   name:           Thomas Dutrion
-  avatar:         http://www.gravatar.com/avatar/75a1aaabeaa3f1f017d863870c6c0ded?s=200
+  avatar:         https://www.gravatar.com/avatar/75a1aaabeaa3f1f017d863870c6c0ded?s=200
   email:          thomas@generation-pc.net
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Architecte logiciel, développeur PHP, j'ai crée Engineor, une entreprise de prestations de services informatique a destination des entreprises et particuliers.

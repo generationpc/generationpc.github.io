@@ -7,8 +7,8 @@ categories: tutoriels
 tags: [Développement, Web, Zend Framework, PHP, Hébergement, Mutualisé, OVH, production]
 comments: true
 share: true
-disqus_url: http://www.generation-pc.net/2011/09/zend-framework-chez-ovh/
-disqus_identifier: http://www.generation-pc.net/2011/09/zend-framework-chez-ovh/
+disqus_url: https://www.generation-pc.net/2011/09/zend-framework-chez-ovh/
+disqus_identifier: https://www.generation-pc.net/2011/09/zend-framework-chez-ovh/
 redirect_from: "/2011/09/zend-framework-chez-ovh/"
 ---
 [![Logo OVH](/images/posts/2011-09-03-zend-framework-chez-ovh/01.jpg)](/images/posts/2011-09-03-zend-framework-chez-ovh/01.jpg)
