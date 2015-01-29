@@ -33,6 +33,11 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
+<script>
+var host = "generation-pc.net";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+</script>
 
 <link href='//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/font-awesome.min.css">
